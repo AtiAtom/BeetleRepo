@@ -1,4 +1,4 @@
-# 甲虫仓库
+# 甲虫仓库 BeebleRepo
 
 2021年10月以来的甲虫饲养、繁殖、标本制作等记录。
 
@@ -55,3 +55,13 @@
 + [S. titanus palawanicus 巴拉望巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.palawanicus%E5%B7%B4%E6%8B%89%E6%9C%9B%E5%B7%A8%E6%89%81)
 + [S. titanus typhoniformis 西南扁锹](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.typhoniformis%E8%A5%BF%E5%8D%97%E6%89%81%E9%94%B9)
 + [S.titanus yasuokai 苏门答腊巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.yasuokai%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E5%B7%A8%E6%89%81)
+
+### Dynastidae 犀金龟科
+
+#### Chalcosoma属
+
++ [C. atlas keyboh 阿特拉斯南洋大兜虫印尼亚种(Cak)](./Dynastidae%E7%8A%80%E9%87%91%E9%BE%9F%E7%A7%91/Chalcosoma%E5%B1%9E/C.atlas%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%8D%97%E6%B4%8B%E5%A4%A7%E5%85%9C%E8%99%AB/C.a.keyboh%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%8D%97%E6%B4%8B%E5%A4%A7%E5%85%9C%E8%99%AB%E5%8D%B0%E5%B0%BC%E4%BA%9A%E7%A7%8D(Cak)/)
+
+#### Dynastes属
+
++ [D. hercules 长戟大兜虫](./Dynastidae%E7%8A%80%E9%87%91%E9%BE%9F%E7%A7%91/Dynastes%E5%B1%9E/D.hercules%E9%95%BF%E6%88%9F%E5%A4%A7%E5%85%9C%E8%99%AB/D.h.hercules%E8%B5%AB%E5%85%8B%E5%8A%9B%E5%A3%AB%E9%95%BF%E6%88%9F%E5%A4%A7%E5%85%9C%E8%99%AB/%E8%B5%AB%E5%85%8B%E5%8A%9B%E5%A3%AB%E9%95%BF%E6%88%9F%E5%A4%A7%E5%85%9C%E8%99%AB%E9%A5%B2%E8%82%B2%E8%AE%B0%E5%BD%95.md)
