@@ -27,7 +27,7 @@
 #### Lucanus 深山属
 
 + [L. cervus akbesianus 欧洲深山阿卡巴亚种](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Lucanus%E6%B7%B1%E5%B1%B1%E5%B1%9E/L.cervus%E6%AC%A7%E6%B4%B2%E6%B7%B1%E5%B1%B1%E9%94%B9/L.c.akbesianus%E9%98%BF%E5%8D%A1%E5%B7%B4%E6%B7%B1%E5%B1%B1%E9%94%B9)
-+ [L. delavayi Fairmaire 黄鞘深山](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Lucanus%E6%B7%B1%E5%B1%B1%E5%B1%9E/L.delavayi.Fairmaire%E9%BB%84%E9%9E%98%E6%B7%B1%E5%B1%B1%E9%94%B9)
++ [L. delavayi Fairmaire 黄鞘深山](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Lucanus%E6%B7%B1%E5%B1%B1%E5%B1%9E/L.delavayi.Fairmaire%E9%BB%84%E9%9E%98%E6%B7%B1%E5%B1%B1%E9%94%B9/%E9%BB%84%E9%9E%98%E6%B7%B1%E5%B1%B1%E5%B0%8F%E7%BB%93.md)
 
 #### Mesotopus 大黑艳属
 
