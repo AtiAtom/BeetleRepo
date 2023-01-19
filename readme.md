@@ -10,6 +10,7 @@
 
 #### Cyclommatus 细身赤属
 
++ [C. mniszechi Thomson 鸡冠细身赤](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Cyclommatus%E7%BB%86%E8%BA%AB%E8%B5%A4%E5%B1%9E/C.mniszechi.Thomson%E9%B8%A1%E5%86%A0%E7%BB%86%E8%BA%AB%E8%B5%A4)
 + [C. speciosus anepsius 所罗门大头细身赤（M岛）](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Cyclommatus%E7%BB%86%E8%BA%AB%E8%B5%A4%E5%B1%9E/C.speciosus%E6%89%80%E7%BD%97%E9%97%A8%E5%A4%A7%E5%A4%B4%E7%BB%86%E8%BA%AB%E8%B5%A4/C.s.anepsius)
 
 #### Dorcus 大锹属
