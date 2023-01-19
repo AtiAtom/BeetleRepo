@@ -70,6 +70,10 @@
 
 + [M. mars 战神大兜虫](./Dynastidae%E7%8A%80%E9%87%91%E9%BE%9F%E7%A7%91/Megasoma%E5%B1%9E/M.mars%E6%88%98%E7%A5%9E%E5%A4%A7%E5%85%9C%E8%99%AB/%E6%88%98%E7%A5%9E%E5%A4%A7%E5%85%9C%E8%99%AB%E9%A5%B2%E8%82%B2%E8%AE%B0%E5%BD%95.md)
 
+#### Xylotrupes属
+
++ [X. gideon siamensis 泰国姬兜](./Dynastidae%E7%8A%80%E9%87%91%E9%BE%9F%E7%A7%91/Xylotrupes%E5%B1%9E/X.gideon%E5%A7%AC%E5%85%9C/X.g.siamensis%E6%B3%B0%E5%9B%BD%E5%A7%AC%E5%85%9C)
+
 ### Cetoniidae 花金龟科
 
 #### Goliathus 大王花金龟属
