@@ -36,6 +36,10 @@
 
 + [O. burmeisteri 南印度霸王鬼](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Odontolabis%E9%AC%BC%E8%89%B3%E5%B1%9E/O.burmeisteri%E5%8D%97%E5%8D%B0%E5%BA%A6%E9%9C%B8%E7%8E%8B%E9%AC%BC)
 
+#### Phalacrognathus 彩虹锹属
+
++ [P. muelleri 彩虹锹](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Phalacrognathus%E5%BD%A9%E8%99%B9%E9%94%B9%E5%B1%9E/P.muelleri%E5%BD%A9%E8%99%B9%E9%94%B9)
+
 #### Prosopocolius 锯锹属
 
 + [P. astacoides mizunumai 大象两点赤](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Prosopocolius%E9%94%AF%E9%94%B9%E5%B1%9E/P.astacoides%E4%B8%A4%E7%82%B9%E8%B5%A4%E9%94%AF%E9%94%B9/P.a.mizunumai%E5%A4%A7%E8%B1%A1%E4%B8%A4%E7%82%B9%E8%B5%A4)
