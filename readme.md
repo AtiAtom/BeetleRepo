@@ -69,3 +69,9 @@
 #### Megasoma属
 
 + [M. mars 战神大兜虫](./Dynastidae%E7%8A%80%E9%87%91%E9%BE%9F%E7%A7%91/Megasoma%E5%B1%9E/M.mars%E6%88%98%E7%A5%9E%E5%A4%A7%E5%85%9C%E8%99%AB/%E6%88%98%E7%A5%9E%E5%A4%A7%E5%85%9C%E8%99%AB%E9%A5%B2%E8%82%B2%E8%AE%B0%E5%BD%95.md)
+
+### Cetoniidae 花金龟科
+
+#### Goliathus 大王花金龟属
+
++ [G. goliatus 歌利亚大王花金龟](./Cetoniidae%E8%8A%B1%E9%87%91%E9%BE%9F%E7%A7%91/Goliathus%E5%A4%A7%E7%8E%8B%E8%8A%B1%E9%87%91%E9%BE%9F%E5%B1%9E/G.goliatus%E6%AD%8C%E5%88%A9%E4%BA%9A%E5%A4%A7%E7%8E%8B%E8%8A%B1%E9%87%91%E9%BE%9F/%E6%AD%8C%E5%88%A9%E4%BA%9A%E5%A4%A7%E7%8E%8B%E8%8A%B1%E9%87%91%E9%BE%9F%E9%A5%B2%E8%82%B2%E8%AE%B0%E5%BD%95.md)
