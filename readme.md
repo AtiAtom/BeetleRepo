@@ -55,6 +55,7 @@
 
 #### Serrognathus 扁锹属
 
++ [S.bucephalus 牛头扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.bucephalus%E7%89%9B%E5%A4%B4%E6%89%81/)
 + [S. titanus imperialis 帝王巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.imperialis%E5%B8%9D%E7%8E%8B%E5%B7%A8%E6%89%81/)
 + [S. titanus palawanicus 巴拉望巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.palawanicus%E5%B7%B4%E6%8B%89%E6%9C%9B%E5%B7%A8%E6%89%81/)
 + [S. titanus typhoniformis 西南扁锹](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.typhoniformis%E8%A5%BF%E5%8D%97%E6%89%81%E9%94%B9/)
