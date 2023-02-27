@@ -6,7 +6,7 @@
 
 ## 繁殖
 
-2021年10月底购入pff成虫一对，♂ 65mm为蛰伏虫，♀ all size已出蛰。
+2021年10月底于虫友Jhon-beetle处购入pff成虫一对，♂ 65mm为蛰伏虫，♀ all size已出蛰。
 
 <div align=center><img width="50%" src=".pic/IMG_20211103_223902.jpg"/></div>
 
