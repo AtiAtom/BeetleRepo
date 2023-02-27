@@ -51,10 +51,10 @@
 
 #### Serrognathus 扁锹属
 
-+ [S. titanus imperialis 帝王巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.imperialis%E5%B8%9D%E7%8E%8B%E5%B7%A8%E6%89%81/%E5%B8%9D%E7%8E%8B%E5%B7%A8%E6%89%81%E7%B9%81%E6%AE%96%E9%A5%B2%E8%82%B2%E8%AE%B0%E5%BD%95-1.md)
-+ [S. titanus palawanicus 巴拉望巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.palawanicus%E5%B7%B4%E6%8B%89%E6%9C%9B%E5%B7%A8%E6%89%81/%E5%B7%B4%E6%8B%89%E6%9C%9B%E5%B7%A8%E6%89%81%E9%A5%B2%E8%82%B2%E8%AE%B0%E5%BD%95.md)
-+ [S. titanus typhoniformis 西南扁锹](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.typhoniformis%E8%A5%BF%E5%8D%97%E6%89%81%E9%94%B9)
-+ [S. titanus yasuokai 苏门答腊巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus/S.t.yasuokai%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E5%B7%A8%E6%89%81)
++ [S. titanus imperialis 帝王巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.imperialis%E5%B8%9D%E7%8E%8B%E5%B7%A8%E6%89%81/)
++ [S. titanus palawanicus 巴拉望巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.palawanicus%E5%B7%B4%E6%8B%89%E6%9C%9B%E5%B7%A8%E6%89%81/)
++ [S. titanus typhoniformis 西南扁锹](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.typhoniformis%E8%A5%BF%E5%8D%97%E6%89%81%E9%94%B9/)
++ [S. titanus yasuokai 苏门答腊巨扁](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Serrognathus%E6%89%81%E9%94%B9%E5%B1%9E/S.titanus%E6%B3%B0%E5%9D%A6%E6%89%81/S.t.yasuokai%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E5%B7%A8%E6%89%81/)
 
 ### Dynastidae 犀金龟科
 
