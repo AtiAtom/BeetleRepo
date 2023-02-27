@@ -24,7 +24,7 @@
 + [H. mandibularis 巨颚叉角](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Hexarthrius%E5%8F%89%E8%A7%92%E5%B1%9E/H.mandibularis%E5%B7%A8%E9%A2%9A%E5%8F%89%E8%A7%92)
 + [H. rhinoceros rhinoceros 犀牛叉角原名亚种](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Hexarthrius%E5%8F%89%E8%A7%92%E5%B1%9E/H.rhinoceros%E7%8A%80%E7%89%9B%E5%8F%89%E8%A7%92/H.r.rhinoceros)
 
-### Lamprima 金锹属
+#### Lamprima 金锹属
 
 + [L. adolphinae 印尼金锹](./Lucanidae%E9%94%B9%E7%94%B2%E7%A7%91/Lamprima%E9%87%91%E9%94%B9%E5%B1%9E/L.%20adolphinae%20%E5%8D%B0%E5%B0%BC%E9%87%91%E9%94%B9/)
 
